@@ -1,0 +1,73 @@
+body {
+  padding-top: 70px;
+}
+
+.logo1 {
+  padding-left: 10px;
+  width: 100px;
+}
+
+.card-deck,
+img {
+  width: 75vw;
+}
+
+.texto-carrusel {
+  margin-left: 30%;
+  margin-bottom: 8%;
+}
+
+div.carousel-caption.d-none.d-lg-block.texto-carrusel a.boton1,
+div.col-6.pl-0.pr-0.bg-dark a.boton1 {
+  background-color: transparent;
+  border-color: white;
+}
+
+div.container-fluid.bg-dark ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.tarjeta1 {
+  border-style: solid;
+  border-color: blue;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  margin-right: 5px;
+  text-align: center;
+}
+
+.tarjeta1 p,
+.tarjeta1 h2 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.tarjeta2 {
+  border-style: solid;
+  border-color: rgb(26, 119, 239);
+  margin-top: 35px;
+  margin-bottom: 35px;
+  margin-right: 5px;
+  text-align: center;
+}
+
+.tarjeta2 p,
+.tarjeta2 h2 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.tarjeta3 {
+  border-style: solid;
+  border-color: rgb(255, 251, 0);
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.tarjeta3 p,
+.tarjeta3 h2 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
